@@ -1,0 +1,10 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico",
+  "/game/page": "/game",
+  "/leaderboard/page": "/leaderboard",
+  "/page": "/",
+  "/select-color/page": "/select-color",
+  "/instructions/page": "/instructions",
+  "/settings/page": "/settings"
+}
