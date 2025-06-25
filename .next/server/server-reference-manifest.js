@@ -1,1 +1,1 @@
-self.__RSC_SERVER_MANIFEST="{\n  \"node\": {},\n  \"edge\": {},\n  \"encryptionKey\": \"2Fi61NmIjZ6ie4Khu7OPlL6Cg+dVNvvRegSREeC6YUw=\"\n}"
+self.__RSC_SERVER_MANIFEST="{\"node\":{\"406e5d8eb6d5b50b8e14e0cd489372ad83c732fe51\":{\"workers\":{\"app/game/page\":{\"moduleId\":\"44614\",\"async\":false}},\"layer\":{\"app/game/page\":\"action-browser\"}}},\"edge\":{},\"encryptionKey\":\"process.env.NEXT_SERVER_ACTIONS_ENCRYPTION_KEY\"}"
